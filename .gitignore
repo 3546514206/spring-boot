@@ -39,3 +39,5 @@ target
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+/.mvn/.gradle-enterprise/gradle-enterprise-workspace-id
+/REFACTORING_TEST_RESULT-2024-12-09-01-08-54.txt
