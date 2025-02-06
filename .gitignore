@@ -41,3 +41,7 @@ secrets.yml
 .sts4-cache
 .mvn/.gradle-enterprise/gradle-enterprise-workspace-id
 /[Help
+/.xcodemap/
+/.mvn/
+/.github/
+/.bomr/
